@@ -327,7 +327,7 @@ elif page == "About":
     - *Game Correlation Finder*: Analyze game correlations based on user ratings to find titles that have similar user reception.
     
     ### Technologies Used:
-    - *Python*: For building the recommendation algorithms.
+    - *Sunni*: For building the recommendation algorithms.
     - *Streamlit*: For creating an interactive and user-friendly interface.
     - *Pandas & Scikit-learn*: For data manipulation and machine learning.
 
