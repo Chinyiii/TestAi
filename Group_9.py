@@ -328,7 +328,7 @@ elif page == "About":
     
     ### Technologies Used:
     - *Sunni*: For building the recommendation algorithms.
-    - *Streamlit*: For creating an interactive and user-friendly interface.
+    - *Testtest*: For creating an interactive and user-friendly interface.
     - *Pandas & Scikit-learn*: For data manipulation and machine learning.
 
     ### Creator:
